@@ -1,2 +1,2 @@
 # Calculator
-This is Calculatpr is Built using HTMl and CSS
+This is Calculator is Built using HTMl and CSS
